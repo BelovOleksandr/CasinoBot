@@ -1,0 +1,2 @@
+# CasinoBot
+Casino work bot
