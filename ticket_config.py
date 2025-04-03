@@ -19,13 +19,13 @@ support = 1430410573 # ID сапорта
 channel_id = 1430410573 # ID Канала залётов
 chat_worker_id = 1430410573 # ID Чата с воркерами
 
-bot_name = '' # Username Бота
+bot_name = '@LuckyRollRoll_bot' # Username Бота
 
-mater = '' # Ссылка на мануалы
-zalet = '' # Ссылка на канал с залётами
-infos = '' # Ссылка на инфо канал
-pname = '' # Название проекта
-pdate = '' # Дата созданя проекта
+mater = 'https://t.me/+JM0XL78FXnQ1YmQ0' # Ссылка на мануалы
+zalet = 'https://t.me/+5whQYE6RVNdiY2M0' # Ссылка на канал с залётами
+infos = 'https://t.me/+alTSZXhkH3s2YzJk' # Ссылка на инфо канал
+pname = 'AO MMM' # Название проекта
+pdate = '26 марта 2025 года' # Дата созданя проекта
 
 
 config = configparser.ConfigParser()
