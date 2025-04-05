@@ -12,7 +12,7 @@ from time import sleep
 from datetime import datetime, timedelta
 
 
-bot = telebot.TeleBot('7557710862:AAGzESrIplDV5D4avEEBK8nIIPQW7Jo0IF4') # Токен бота воркеров
+bot = telebot.TeleBot('7358876746:AAFxgCQIvg_3bzdaRVN_V1DER7XI_485BJw') # Токен бота воркеров
 
 admin = 1430410573 # ID Админа
 support = 1430410573 # ID сапорта
